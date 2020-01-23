@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Cart Drawer - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Cart Drawer component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/cart-drawer)
+- [Info Page](https://codyhouse.co/ds/components/info/cart-drawer)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
